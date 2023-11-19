@@ -1,6 +1,6 @@
 # CPU-in-Verilog
 
-A personal project in a course of my 5th semester, I spent about 3 week to write those code and set up a simple cpu from zero in the end.
+A personal project of my Computer Architecture course, I spent about 3 week to write those code and set up a CPU from zero in the end.
 
 I shared the code here, hope that it can help someone in need.
 
